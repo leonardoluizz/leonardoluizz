@@ -5,7 +5,7 @@ Meu nome é Leonardo Luiz, tenho 23 anos.
 
 ## 🚀 Expertise
 
-Atualmente formado em Ánalise e desevolvimento de Sistemas e se especializando em Segurança da Informação e a certificação da ISO 27001.
+Atualmente formado em Ánalise e Desevolvimento de Sistemas e se especializando em Segurança da Informação e a Certificação da ISO 27001.
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

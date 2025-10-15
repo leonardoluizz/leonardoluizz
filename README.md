@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-Meu nome é Leonardo Luiz, tenho 23 anos. 
+Meu nome é Leonardo Luiz, tenho 24 anos. 
 
 
 ## 🚀 Expertise
